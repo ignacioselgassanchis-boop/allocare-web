@@ -1,0 +1,10 @@
+{
+  "name": "Fides",
+  "short_name": "Fides",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F2EE",
+  "theme_color": "#2B5240",
+  "lang": "es",
+  "icons": [{ "src": "/apple-touch-icon.png", "sizes": "1024x1024", "type": "image/png" }]
+}
